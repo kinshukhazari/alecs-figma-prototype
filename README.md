@@ -2,8 +2,6 @@
 
 Figma landing page prototype with Smart Animate scroll, adapted from two CC BY 4.0 community templates.
 
-![Alec's homepage](design/YOUR-FILE-NAME.png)
-
 ## What I changed
 - Built the home page by combining elements from both templates
 - Replaced the ice cream products with the juice cans
