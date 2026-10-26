@@ -18,3 +18,12 @@ This design is adapted from two Figma Community files, both licensed under
 - ["Fruit Juice Drink"](PASTE-FRUIT-JUICE-LINK-HERE) by
   [Dixit Pedhadiya](https://www.figma.com/files/team/1685943716327107733/resources/community/@dixitpedhadiya):
   the can artwork.
+## Design preview
+
+![Alec's homepage 1](home-1.png)
+![Alec's homepage 2](home-2.png)
+![Alec's homepage 3](home-3.png)
+
+## Prototype demo
+
+[Watch the Smart Animate scroll demo](demo.mp4)
