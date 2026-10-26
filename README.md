@@ -27,3 +27,5 @@ This design is adapted from two Figma Community files, both licensed under
 ## Prototype demo
 
 [Watch the Smart Animate scroll demo](demo.mp4)
+
+(My Second UI Design Using Figma.)
